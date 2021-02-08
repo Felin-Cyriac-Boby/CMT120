@@ -1,6 +1,6 @@
 # CMT120 - Fundamentals of Programming
 
-**Assignment 1 - 100/100**
+**Assignment 1 (30% of module) - 100/100**
 
 An individual project which tests the basic fundamental principles (conditionals, loops, functions).
 
@@ -8,7 +8,7 @@ An individual project which tests the basic fundamental principles (conditionals
 
 I've attempted all 10.
 
-**Assignment 2 - In progress**
+**Assignment 2 (70% of module) - In progress**
 
 An individual web development project, uses the micro-webframework Flask, along with HTML/CSS/JavaScript and MySQL.
 
