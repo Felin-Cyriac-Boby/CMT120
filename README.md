@@ -6,7 +6,7 @@ An individual project which tests the basic fundamental principles (conditionals
 
 10 Questions in total, 8 are required.
 
-I've attempted all 10.
+I've attempted all 10 in Python and JavaScript.
 
 **Assignment 2 (70% of module) - In progress**
 
